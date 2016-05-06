@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeSplashScreenExample</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="swipe_screen1">Swipe_screen1</string>
+    <string name="swipe_screen2">Swipe_screen2</string>
+    <string name="swipe_screen3">Swipe_screen3</string>
+    <string name="swipe_screen4">Swipe_screen4</string>
+    <string name="swipe_screen5">Swipe_screen5</string>
+</resources>
